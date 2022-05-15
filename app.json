@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/poruoy/nginxy",
-  "repository": "https://github.com/poruoy/nginxy",
+  "website": "https://github.com/uibfdh/nkyip",
+  "repository": "https://github.com/uibfdh/nkyip",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
